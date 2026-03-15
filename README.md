@@ -118,7 +118,7 @@ This data is used to analyze trends, customer engagement, and product performanc
 
 ## Author
 
-Tejas Waghmare
+Tejas Waghmare 
 GitHub: https://github.com/TCWaghmare 
 LinkedIn: www.linkedin.com/in/tejascwaghmare
 
