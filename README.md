@@ -1,80 +1,111 @@
+# Amazon Sales Dashboard – Power BI
+
 ## Project Overview
-This project presents an interactive Amazon Sales Dashboard developed using Power BI. The dashboard provides insights into sales performance, product categories, customer behavior, and discount analysis.
+This project presents an interactive **Amazon Sales Data Analysis Dashboard** developed using **Power BI**. The dashboard transforms raw sales data into meaningful business insights through data visualization and analytics.
 
-The goal of this project is to transform raw sales data into meaningful business insights using data visualization.
-
----
-
-## Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Excel / CSV Dataset
-- Data Visualization
+The objective of this project is to analyze sales performance, customer behavior, product demand, and the impact of discounts on revenue. The dashboard enables users to explore key metrics and trends using interactive filters and visualizations.
 
 ---
 
-## Dashboard Features
-The dashboard consists of three main pages:
+## Dashboard Demonstration
 
-### 1. Executive Sales Overview
+A short demonstration video showing the functionality of the dashboard.
+
+https://github.com/yourusername/yourrepository/demo/dashboard_demo.mp4
+
+---
+
+## Dashboard Preview
+
+### Executive Sales Overview
+![Executive Sales Overview](images/executive_sales_overview.png)
+
+This page provides a high-level overview of business performance including:
+
 - Total Revenue
+- Total Quantity Sold
 - Total Orders
-- Quantity Sold
-- Average Rating
+- Average Customer Rating
 - Monthly Sales Trend
 - Payment Method Distribution
 
-### 2. Customer & Product Insights
-- Revenue by Product Category
-- Category Demand Analysis
-- Rating vs Sales Analysis
-- Reviews vs Revenue Analysis
+---
 
-### 3. Discount & Profit Analysis
-- Discount Percentage by Category
-- Revenue vs Discount Analysis
-- Regional Sales Distribution
+### Customer & Product Insights
+![Customer Product Insights](images/customer_product_insights.png)
+
+This page focuses on product performance and customer behavior.
+
+Key analysis includes:
+
+- Revenue by Product Category
+- Product Demand based on Quantity Sold
+- Relationship between Customer Ratings and Sales
+- Impact of Review Count on Revenue
+
+---
+
+### Discount & Profit Analysis
+![Discount Profit Analysis](images/discount_profit_analysis.png)
+
+This section analyzes the effect of discounts on sales and regional distribution.
+
+Insights include:
+
+- Average Discount by Product Category
+- Discount vs Revenue Relationship
+- Regional Sales Distribution across product categories
+
+---
+
+## Features
+
+- Interactive dashboard with slicers and filters
+- Multi-page navigation for different analytical perspectives
+- Sales trend visualization
+- Product category performance analysis
+- Customer rating and review analysis
+- Discount impact on revenue
+- Regional sales distribution map
+
+---
+
+## Tools and Technologies
+
+- Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Visualization
+- Business Intelligence
+
+---
+
+## Dataset Information
+
+The dataset used in this project includes the following attributes:
+
+- Product Category
+- Order Date
+- Customer Region
+- Payment Method
+- Quantity Sold
+- Total Revenue
+- Discount Percentage
+- Customer Rating
+- Review Count
+
+This data is used to analyze trends, customer engagement, and product performance.
 
 ---
 
 ## Key Insights
-- Beauty category generated the highest revenue.
-- Sales remain consistent across multiple product categories.
-- Customer reviews and ratings have a positive influence on revenue.
-- Discount strategies affect product sales performance.
-- Payment methods are almost evenly distributed among customers.
+
+- Beauty and Books categories generate some of the highest revenue.
+- Ratings between 3 and 4 are associated with higher sales activity.
+- Digital payment methods such as UPI and Wallets are widely used.
+- Discount strategies influence purchasing behavior across product categories.
+- Certain regions show stronger demand for specific products.
 
 ---
 
-## Dashboard Screenshots
-
-### Executive Sales Overview
-![Dashboard Page 1](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/page%201.png)
-
-### Customer & Product Insights
-![Dashboard Page 2](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Page%202.png)
-
-### Discount & Profit Analysis
-![Dashboard Page 3](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Page%203.png)
-
----
-
-## Project Demo
-Video demonstration of the dashboard:
-
-(Add your Google Drive / YouTube video link here)
-
----
-
-## Future Improvements
-- Add real-time data integration
-- Apply predictive analytics for sales forecasting
-- Create automated reports
-
----
-
-## Author
-Tejas Waghmare  
-Mechanical Engineering Graduate  
-Aspiring Data Analyst
+## Project Structure
