@@ -11,14 +11,14 @@ The objective of this project is to analyze sales performance, customer behavior
 
 A short demonstration video showing the functionality of the dashboard.
 
-https://github.com/yourusername/yourrepository/demo/dashboard_demo.mp4
+(https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Amazon%20Dashboard%20Demonstration.mp4)
 
 ---
 
 ## Dashboard Preview
 
 ### Executive Sales Overview
-![Executive Sales Overview](images/executive_sales_overview.png)
+![Executive Sales Overview](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/page%201.png)
 
 This page provides a high-level overview of business performance including:
 
@@ -32,7 +32,7 @@ This page provides a high-level overview of business performance including:
 ---
 
 ### Customer & Product Insights
-![Customer Product Insights](images/customer_product_insights.png)
+![Customer Product Insights](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Page%202.png)
 
 This page focuses on product performance and customer behavior.
 
@@ -46,7 +46,7 @@ Key analysis includes:
 ---
 
 ### Discount & Profit Analysis
-![Discount Profit Analysis](images/discount_profit_analysis.png)
+![Discount Profit Analysis](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Page%203.png)
 
 This section analyzes the effect of discounts on sales and regional distribution.
 
@@ -109,3 +109,45 @@ This data is used to analyze trends, customer engagement, and product performanc
 ---
 
 ## Project Structure
+
+amazon-sales-dashboard
+│
+├── dashboard
+│ └── Amazon_Sales_Dashboard.pbix
+│
+├── data
+│ └── amazon_sales_dataset.csv
+│
+├── images
+│ ├── executive_sales_overview.png
+│ ├── customer_product_insights.png
+│ └── discount_profit_analysis.png
+│
+├── demo
+│ └── dashboard_demo.mp4
+│
+├── README.md
+└── LICENSE
+
+
+---
+
+## How to Use
+
+1. Clone or download the repository.
+2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+3. Use the slicers and interactive visuals to explore the dashboard.
+
+---
+
+## Author
+
+Tejas Waghmare
+GitHub: https://github.com/TCWaghmare 
+LinkedIn: www.linkedin.com/in/tejascwaghmare
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
