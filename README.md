@@ -11,14 +11,14 @@ The objective of this project is to analyze sales performance, customer behavior
 
 A short demonstration video showing the functionality of the dashboard.
 
-https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Amazon%20Dashboard%20Demonstration.mp4
+https://github.com/user-attachments/assets/a62e1c84-31bd-4101-b9b0-c261c4e3ba77
 
 ---
 
 ## Dashboard Preview
 
 ### Executive Sales Overview
-![Executive Sales Overview](https://github.com/user-attachments/assets/a62e1c84-31bd-4101-b9b0-c261c4e3ba77)
+![Executive Sales Overview](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/page%201.png)
 
 This page provides a high-level overview of business performance including:
 
