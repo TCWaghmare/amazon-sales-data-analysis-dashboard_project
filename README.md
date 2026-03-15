@@ -11,7 +11,7 @@ The objective of this project is to analyze sales performance, customer behavior
 
 A short demonstration video showing the functionality of the dashboard.
 
-(https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Amazon%20Dashboard%20Demonstration.mp4)
+https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Amazon%20Dashboard%20Demonstration.mp4
 
 ---
 
@@ -105,30 +105,6 @@ This data is used to analyze trends, customer engagement, and product performanc
 - Digital payment methods such as UPI and Wallets are widely used.
 - Discount strategies influence purchasing behavior across product categories.
 - Certain regions show stronger demand for specific products.
-
----
-
-## Project Structure
-
-amazon-sales-dashboard
-│
-├── dashboard
-│ └── Amazon_Sales_Dashboard.pbix
-│
-├── data
-│ └── amazon_sales_dataset.csv
-│
-├── images
-│ ├── executive_sales_overview.png
-│ ├── customer_product_insights.png
-│ └── discount_profit_analysis.png
-│
-├── demo
-│ └── dashboard_demo.mp4
-│
-├── README.md
-└── LICENSE
-
 
 ---
 
