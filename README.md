@@ -111,7 +111,7 @@ This data is used to analyze trends, customer engagement, and product performanc
 ## How to Use
 
 1. Clone or download the repository.
-2. Open the (https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Amazon%20Sale%20Dashboard.pbix) `.pbix` file using **Microsoft Power BI Desktop**.
+2. Open the [PoweBI Dashboard](https://github.com/TCWaghmare/amazon-sales-data-analysis-dashboard_project/blob/main/Amazon%20Sale%20Dashboard.pbix) `.pbix` file using **Microsoft Power BI Desktop**.
 3. Use the slicers and interactive visuals to explore the dashboard.
 
 ---
